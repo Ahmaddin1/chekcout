@@ -1,0 +1,398 @@
+Calminity Presell: General
+ 
+Build note for the developer: this page is a block-for-block port of the RejuvaCare presell (secure.rejuvacare.com/sp-rc-sm-ig-us-geo-main). It has the same sections in the same order, cut to the same length, so every block drops into the matching RejuvaCare slot. All the images are in the image review folder (renders/), and the developer punch list maps each file to its slot. The guarantee is 90 days.
+ 
+What's different from the live build:
+ 
+No rating line under the hero button and no product-box image after it. RejuvaCare has neither.
+GIF 1 (the mechanism animation) moves down to the "only the right frequency can" line, the beat it shows. Use the audio-stripped file.
+The reviews are 3 cards, like RejuvaCare's (Joy S. is out).
+The offer is one RejuvaCare-style product card, with no value table.
+There's no guarantee seal and no closing paragraphs. The page ends on the FAQ and a final button, like RejuvaCare's.
+Delete the hidden nav code (it links to myrejuvaknee.com) and point the footer at calminity.com (details are in the developer punch list).
+ 
+BLOCK 1: Flash bar
+ 
+🔥 FLASH SALE: 50% OFF + FAST FREE SHIPPING FROM OUR US WAREHOUSE
+ 
+BLOCK 2: Logo bar
+ 
+Calminity logo, centered. No visible nav, same as RejuvaCare (the template's About / Results / Reviews / FAQ links are hidden at every screen width). Delete that hidden code anyway, since About and FAQ point at myrejuvaknee.com.
+ 
+BLOCK 3: Trust icons row
+ 
+✓ Easy Returns · ✓ 90-Day Guarantee · ✓ Free Shipping
+ 
+BLOCK 4: HERO
+ 
+I Forgot What It Felt Like to Wake Up Without the Ache. Now I Remember.
+ 
+The Calminity Bio-Healing Frequency Generator: deeper sleep, easier mornings and a calmer body, at home, in just 15 minutes a day. No drugs. No injections.
+ 
+IMAGE: HERO (new file, the before/after split)
+ 
+GET 50% OFF TODAY ONLY!
+ 
+✅ Sleep deeper and wake up rested
+✅ Ease everyday aches and stiffness, drug-free
+✅ Calm the inflammation nothing else seems to touch
+✅ Real frequencies, not digital recordings
+ 
+▶ TRY THE CALMINITY NOW | 50% OFF
+ 
+[FLAG BOX] Free Shipping From Our US Warehouse!
+ 
+Only here, direct from Calminity.
+ 
+🛡 90-Day Money Back · 🚚 Free US Shipping · 📈 Oscilloscope-Verified
+ 
+BLOCK 5: "As Seen On:" strip
+ 
+IMAGE: PRESS LOGO STRIP (keep the live "As Seen On:" strip as it is)
+ 
+BLOCK 6: Results-timeline intro + 4 photos
+ 
+Start Feeling Calmer in Your First 15 Minutes, With Easier Sleep Inside the First Week
+ 
+IMAGES: TIMELINE 1 to 4 (new files, 4 tall photos in a 2 x 2 grid)
+ 
+Results vary from person to person.
+ 
+BLOCK 7: The named problem / villain
+ 
+Endless Doctor Visits, Pills That Only Mask It, and the Same Ache and 3am Wake-Ups Every Day... It's Exhausting
+ 
+Why don't pills, sleep aids and heating pads ever give you lasting relief?
+ 
+IMAGE: GRAPH, WHY NOTHING HOLDS (new file, full column width, in RejuvaCare's graph slot)
+ 
+You've tried the prescriptions, the specialists, the heating pads and the sleep aids. For a little while, maybe something helped. Then it wore off, and you were right back where you started.
+ 
+Somewhere in all of it, you started to wonder if the problem was you.
+ 
+It isn't. And it was never you.
+ 
+There's a simpler reason the ache keeps coming back, and almost nobody explains it.
+ 
+Everything in your body runs on frequency: your cells, your nervous system, even your heartbeat. When those frequencies stay in tune, your body keeps itself in balance.
+ 
+The problem is, years of stress and wear knock them out of sync. And your body lets you know: pain that lingers, sleep that won't come, energy that disappears.
+ 
+Pills and heating pads only cover that up. They can't put a frequency back in tune. Only the right frequency can.
+ 
+GIF 1: THE MECHANISM (existing animation, audio stripped: stressed cells, a clean wave passes through, the cells calm)
+ 
+And getting the right frequency to you is where almost everything falls short.
+ 
+[CALLOUT BOX 1] A real frequency signal has 2 halves: the sound you hear, and an invisible pulse, called a field, that passes into your body and reaches your cells.
+ 
+[CALLOUT BOX 2] Phone apps, YouTube tracks and cheap generators only give you the sound half, and often a rough digital copy of it. We call that the Half-Signal Problem. It's like looking at a picture of the sun and waiting to feel warm. The picture is real. The warmth just isn't there.
+ 
+[CALLOUT BOX 3] Machines that make the full signal, sound and field together, have existed since frequency pioneer Royal Raymond Rife's work in the 1930s. They just stayed locked inside clinics at $10,000 to $15,000.
+ 
+Result?
+ 
+[TINT BOX] The pills covered it up, and the apps only gave you half. So you're stuck in the same cycle: a little relief, then the ache and the sleepless nights come right back.
+ 
+That's why the good days keep slipping away. Why you can't sleep through. Why the garden and the long walks feel further out of reach every year.
+ 
+You're left tired, frustrated and stuck, wondering if anything will ever work.
+ 
+But this ends NOW!
+ 
+⬇️ Here's the good news... ⬇️
+ 
+BLOCK 8: Product reveal card
+ 
+IMAGE: INTRODUCING CARD BACKGROUND (new file). This is a card: the headline sits on top in white, and the image is the card background.
+ 
+Introducing the Calminity Bio-Healing Frequency Generator: The Home Device That Delivers Both Halves of the Real Signal in One Simple 15-Minute Routine
+ 
+Reviewed by Dr. Jonathan Reed and his science team
+ 
+BLOCK 9: Results timeline cards
+ 
+What the Calminity Routine Feels Like, Week by Week
+ 
+📅 Day 1: Calm in your very first session
+ 
+📅 Week 1: Sleep comes easier
+ 
+📅 Weeks 3 to 4: The aches start to ease
+ 
+📅 3+ Months: Feeling like yourself again
+ 
+A daily routine, not a painkiller. The benefit builds with steady use, and results vary.
+ 
+▶ START MY 15-MINUTE ROUTINE | 50% OFF
+ 
+✅ 90-day money-back guarantee
+ 
+BLOCK 10: Mechanism cards
+ 
+How 15 Minutes a Day Gets the Real Signal Past Your Ears and Into Your Body
+ 
+The Calminity Dual-Wave Method sends the sound and the field together, tuned to the frequency you choose.
+ 
+[DARK GREEN BAR] No drugs. No injections. Nothing to swallow.
+ 
+IMAGE: WAVE 1 CARD (IMAGE 5, circle)
+ 
+Wave 1: Pure Analog Sound
+ 
+You hear the real frequency, clean and steady. Inside, a precision crystal oscillator makes a true analog sine wave and sends it through the included air-tube earphones. That's the sound half of the signal, done right.
+ 
+GIF 2: WAVE 2 CARD (new circle-safe file, circle)
+ 
+Wave 2: A Pulsed Electromagnetic Field
+ 
+At the same time, Calminity puts out a gentle pulsed field that reaches about 5 feet and passes through the body without any contact. Sound reaches your ears. The field reaches your cells. That's the warmth the picture was missing. And it isn't fringe science: pulsed electromagnetic fields, or PEMF, are an established medical technology the FDA has cleared to help heal stubborn bone fractures.
+ 
+IMAGE: CARD 3, YOUR NUMBER (new file, circle)
+ 
+The Right Number for What You Need
+ 
+The included Frequency Healing Guide lists the number for each concern, so you never have to guess. Type it in and press OK. Your Calminity covers every frequency from 0.01 Hz to 100,000 Hz.
+ 
+▶ YES, I WANT THE REAL THING | SAVE 50%
+ 
+✅ 90-day money-back guarantee
+ 
+BLOCK 11: The authority / proof block
+ 
+The Signal Is Tested Before It Ships
+ 
+IMAGE: DEVICE DETAIL ON WHITE (new file, near-square) + PROOF PHOTO (IMAGE 6, unchanged). Two stacked images, the same layout as RejuvaCare's surgeon block. Put the caption below right under IMAGE 6.
+ 
+Left: a clean analog wave. Right: a cheap chip's stair-stepped copy.
+ 
+Before any unit ships, its signal is checked on an oscilloscope, a screen that shows the real shape of a signal. One clean, stable wave, with no drift.
+ 
+The same precision as a $15,000 clinical machine. For $79 on today's sale.
+ 
+Here's how the other options stack up:
+ 
+❌ Free apps and YouTube tracks play a recording, with no field at all
+ 
+❌ Cheap generators cut corners on parts and put out an unstable, stair-stepped wave
+ 
+❌ Pro machines make the real signal, but at up to $15,000 they're stuck in clinics
+ 
+Calminity uses a true analog oscillator, so you get the real wave, plus the field the apps can't make.
+ 
+▶ YES, I WANT THE REAL THING | SAVE 50%
+ 
+✅ 90-day money-back guarantee
+ 
+BLOCK 12: The life-back benefits
+ 
+Watch Your Body Go From Aching and Exhausted to Rested and Moving Easy Again
+ 
+IMAGE: LIFE-BACK ILLUSTRATION (new file, flat 3-figure progression, in RejuvaCare's illustration slot)
+ 
+✅ Wake up ready for the day, instead of dreading it
+✅ Start your mornings without the usual stiffness
+✅ Walk the dog past the end of the block again
+✅ Say yes to the plans you used to cancel
+✅ Get down on the floor with the grandkids
+✅ Feel your mind clear again
+✅ Stop planning your whole day around the ache
+ 
+▶ START MY 15-MINUTE ROUTINE | 50% OFF
+ 
+✅ 90-day money-back guarantee
+ 
+BLOCK 13: Works for everyone
+ 
+The Little Moments You Get Back
+ 
+☕ Hold your coffee without thinking about it
+ 
+Your hands wrap around the mug without a flinch. No bracing first, no setting it down halfway. Just an easy grip, like before.
+ 
+🌙 Sleep straight through again
+ 
+No more lying awake at 3am, watching the clock until morning. You drift off, stay asleep, and wake up feeling like a normal person again.
+ 
+⚡ Get through the afternoon without the crash
+ 
+Remember when 2pm didn't mean running on empty? Picture afternoons with energy still left, right through dinner.
+ 
+🌱 Enjoy the garden again
+ 
+Stop watching it through the window. Stop saving it for a good day. Get back out there, knees in the dirt, doing what you love.
+ 
+🌀 Recognize yourself again
+ 
+Go from feeling like a stranger in your own body to knowing the face in the mirror again. That version of you never left.
+ 
+IMAGE: PAYOFF PORTRAIT (new file, full column width, in RejuvaCare's tall-portrait slot)
+ 
+BLOCK 14: Device feature icons
+ 
+Try the Calminity Bio-Healing Frequency Generator Today!
+ 
+ICONS: 5 round dark-green badges (new files in renders/icons), stacked icon + label like RejuvaCare's
+ 
+Badge labels, top to bottom: Drug-Free · Non-Invasive · Pure Analog Signal · Oscilloscope-Verified · 90-Day Guarantee
+ 
+BLOCK 15: Testimonials
+ 
+Real Owners, in Their Own Words
+ 
+IMAGE: REAL OWNERS COLLAGE (new files: mobile + desktop versions; built only from real customer photos uploaded to Calminity's Judge.me reviews)
+ 
+IMAGE: an initials avatar on each card (C, J, T). The face portraits in the old image pack are generated, not these customers, so they go back on only if Randall approves.
+ 
+Reviews are verbatim Judge.me reviews (copy/calminity/sources/2026-07-10-product-page-testimonial-bank.md). None of them appear on the live upstream advertorial. The bold line is our summary, not a quote.
+ 
+Christine R. · Verified owner
+ 
+★★★★★
+ 
+Christine's back pain flare lasted about 24 hours instead of days...
+ 
+"I used it for a back pain flare and the pain lasted only about 24 hours when it normally disables me for several days."
+ 
+Juli F. · Verified owner
+ 
+★★★★★
+ 
+Juli's finally sleeping after 20+ years of insomnia...
+ 
+"I've battled insomnia for 20+ years. Medications, dozens of supplements, herbs, happy lights, good sleep hygiene, C-pap. This little thing that looks like a high-school science experiment actually seems to be working. I've slept every night for at least 3 weeks."
+ 
+Tina A. · Verified owner · Owns 3
+ 
+★★★★★
+ 
+Tina loves hers so much she owns 3...
+ 
+"I've slept better, my energy levels and my aches and pains are all doing much better. I love it so much that I own 3 so I can have one wherever I am."
+ 
+▶ GET MY COMPLETE CALMINITY BUNDLE | 50% OFF
+ 
+BLOCK 16: Post-review strip
+ 
+[FLAG BOX] Free Shipping From Our US Warehouse!
+ 
+Only here, direct from Calminity.
+ 
+BLOCK 17: 3 simple steps
+ 
+3 Simple Steps to Your 15-Minute Routine at Home
+ 
+No computer, no batteries and no tech skills needed.
+ 
+IMAGES: STEP 1, STEP 2, STEP 3 (new files, one tall photo per step, in RejuvaCare's 3 step-video slots)
+ 
+STEP 1
+ 
+Plug in your Calminity and pop in the earphones.
+ 
+STEP 2
+ 
+Type in your number. The included guide tells you which one.
+ 
+STEP 3
+ 
+Press OK and sit back for about 15 minutes.
+ 
+BLOCK 18: 2 free bonuses
+ 
+Your 2 FREE Bonuses When You Order Today
+ 
+IMAGE: BONUS 1 COVER, square (new file)
+ 
+BONUS #1: The Frequency Healing Guide (print + PDF)
+ 
+Value: $40 Today: FREE
+ 
+Your day-one companion: a 3-step setup, simple morning and evening routines, the exact frequencies for sleep, aches, stress and more, and the full 60+ frequency directory. You also get it as a PDF for your phone.
+ 
+IMAGE: BONUS 2 COVER, square (new file)
+ 
+BONUS #2: "Your Body's Missing Frequency" eBook
+ 
+Value: $30 Today: FREE
+ 
+The deeper guide, in plain English: the science behind frequency healing, how to read your body's response, and how to build a routine around your own goals. Easy reading while your session runs.
+ 
+BLOCK 19: Offer card
+ 
+Claim Your Discounted Calminity Below While Stock Lasts
+ 
+[PILL] EVERYTHING INCLUDED
+ 
+The Complete Calminity Bundle
+ 
+IMAGE: OFFER, device with 50% OFF badge (new file)
+ 
+Includes the Calminity V2, air-tube earphones, a protective carrying case, the Frequency Healing Guide, the eBook and a 1-year warranty.
+ 
+$79
+ 
+Regular price: $159.95
+ 
+[GREEN PILL] You Save $80
+ 
+▶ ADD TO CART
+ 
+🛡 90-Day Money-Back Guarantee · 🚚 FREE SHIPPING
+ 
+One device. No subscriptions. No refills. Used once a day for a year, that's about 22 cents a session.
+ 
+IMAGE: payment logos (unchanged)
+ 
+Secure checkout with 256-bit encryption, the same standard banks use.
+ 
+BLOCK 20: Guarantee block
+ 
+Try It for 90 Full Days, or Get Every Penny Back
+ 
+Just contact our support team for an easy return. A real person answers, usually within 3 hours.
+ 
+🚚 Free Shipping · 🛡 90-Day Money-Back Guarantee · ↩ Easy Returns
+ 
+▶ TRY IT FOR 90 DAYS | 50% OFF
+ 
+✅ 90-day money-back guarantee
+ 
+BLOCK 21: FAQ
+ 
+Frequently Asked Questions
+ 
+There are dozens of frequencies. How do I know where to start?
+ 
+Start with the one that matches why you're here: 174 Hz for pain and stiffness, 528 Hz for sleep and repair, 7.83 Hz for stress, 412 Hz for circulation, 728 Hz for a cleanse. The included guide takes it from there. Most owners settle into 2 or 3 they use regularly.
+ 
+How soon will I feel something?
+ 
+Many people feel calmer during the first 15-minute session. The deeper changes build with daily use, and most owners notice the difference within 3 to 4 weeks. Results vary.
+ 
+How long is a session?
+ 
+About 15 minutes a day with the earphones in. Some people add a second session in the evening.
+ 
+What if it doesn't help me?
+ 
+Send it back within 90 days and we'll refund every penny. Shipping is free and tracked, and the risk is ours, not yours.
+ 
+Is it safe?
+ 
+It's drug-free and non-invasive. Keep taking any medication your doctor prescribed.
+ 
+BLOCK 22: Final button + footer
+ 
+▶ GET 50% OFF BEFORE IT'S GONE
+ 
+✅ 90-day money-back guarantee
+ 
+Sticky bottom bar: "GET 50% OFF TODAY ONLY!" (as live). Every ▶ button and the sticky bar keep the checkout action the live buttons use now (the $79 bundle).
+ 
+Safety note: The Calminity is gentle, drug-free, and non-invasive. We recommend consulting with a licensed healthcare provider before use, particularly if you're expecting, breastfeeding, on medications, or managing health issues.
+ 
+Disclaimer: These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Results vary from person to person. Frequency associations reference community frequency lists and the historical work of Royal Raymond Rife.
+ 
+Terms of Service · Privacy Policy · Refund Policy · Contact. Point all 4 at Calminity's own pages on calminity.com (the addresses are in the developer punch list). The live footer links go to myrejuvaknee.com.
+
